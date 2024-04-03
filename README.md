@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Yumboi
+- 👋 Hi, I’m Hanz
 - 👀 I’m interested in robotics and ai
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Python
 
 <!---
 Yumboi/Yumboi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
